@@ -7,7 +7,7 @@
     ],
     "network": null,
     "owners": [],
-    "country": "AE",
+    "countries": ["AE"],
     "subdivision": null,
     "city": null,
     "broadcast_area": [
@@ -35,7 +35,7 @@
     ],
     "network": null,
     "owners": [],
-    "country": "AE",
+    "countries": ["AE"],
     "subdivision": null,
     "city": null,
     "broadcast_area": [
